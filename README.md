@@ -1,47 +1,47 @@
 ### 🖥️ Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin-right: 10px;"/>
 </p>
 
 ### 📊 Data & Analytics Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://api.iconify.design/logos:microsoft-powerbi.svg" alt="Power BI" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://api.iconify.design/logos:tableau.svg" alt="Tableau" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg" alt="Excel" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="45" height="45" style="margin-right: 10px;"/>
 </p>
 
 ### 🏢 SAP Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/-SAP-008FD3?style=flat-square&logo=sap&logoColor=white" height="35" />
+  <img src="https://api.iconify.design/logos:sap.svg" alt="SAP" width="55" height="45" style="margin-right: 10px;"/>
 </p>
 
 ### 🌐 Frontend Frameworks & Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45" style="margin-right: 10px;" class="dark-invert"/>
 </p>
 
 ### 🗄️ Databases & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://api.iconify.design/bi:github.svg" alt="GitHub" width="45" height="45" style="margin-right: 10px; color: white;"/>
 </p>
